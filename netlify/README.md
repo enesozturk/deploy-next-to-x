@@ -1,6 +1,6 @@
 # Deploy Next to Netlify
 
-Netlify is one of my favorite static web host provider. It works integrated with your Github account as well. Deploying your Next project in Netlify is very easy. *Once create and configure your site from repo, Netlify will watch changes after every commit and update your site.*
+Heroku is one of the static web hosts that cloud base. It can work intagrated with your For more information Visit [website](https://www.netlify.com/)
 
 To deploy your project to Netlify follow the instructions below.
 
